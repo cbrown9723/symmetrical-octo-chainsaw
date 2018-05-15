@@ -1,0 +1,23 @@
+#Red {
+background-color: red;
+border-top-left-radius: 250px;
+}
+#Green {
+background-color: green;
+border-top-right-radius: 250px;
+}
+#Yellow {
+background-color: yellow;
+border-bottom-left-radius: 250px;
+}
+#Blue {
+background-color: blue;
+border-bottom-right-radius: 250px;
+}
+
+.quadrant{
+margin: -2px;
+display: inline-block;
+height: 250px;
+width: 250px;
+}
